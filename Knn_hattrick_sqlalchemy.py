@@ -3,7 +3,7 @@
 # The values can be from 1 (bad) to 7 (very good). In this database exist only values from 5 to 7.
 # This classification-task might become difficult because the influence in the game is only in one direction. The variable Führungsqualitäten depends from nothing but it might influence other variables.
 
-# The variable Führungsqualitäten (engl. leadership qualities) could have been in a seperate table in the database-design. 
+# The variable Führungsqualitäten (engl. leadership qualities) could have been in a separate table in the database-design. 
 # I decided not to do this because it is not a case of (vertical) string-replication.
 
 
