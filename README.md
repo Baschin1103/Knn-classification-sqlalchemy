@@ -1,2 +1,2 @@
-Example-Script to classify players from hattrick.org by the Knn-Classification. The data is taken from a database I created before in another project (Players-Database-Hattrick). The target-variable Führungsqualitäten (engl. leadership qualities) could have been in a seperate table in the database-design. 
+Example-Script to classify players from hattrick.org by the Knn-Classification. The data is taken from a database I created before in another project (Players-Database-Hattrick). The target-variable Führungsqualitäten (engl. leadership qualities) could have been in a separate table in the database-design. 
 I decided not to do this because it is not a case of (vertical) string-replication. The connection is done with the library called sqlalchemy. 
